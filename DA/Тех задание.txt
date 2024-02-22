@@ -1,0 +1,8 @@
+﻿1) Относительный путь до БД попробовать реализовать
+	https://learn.microsoft.com/ru-ru/dotnet/api/system.io.directory.getcurrentdirectory?view=net-7.0
+	https://stackoverflow.com/questions/15653921/get-current-folder-path
+
+2) Реализовать простые вкладки или окна
+
+
+
